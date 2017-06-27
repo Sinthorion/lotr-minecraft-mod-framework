@@ -1,0 +1,17 @@
+# Gradle wrapper
+.gradle
+gradle
+
+# Build files
+build
+out
+
+# Dev Minecraft instance
+minecraft/*
+
+; Intellij IDEA project files
+*.iml
+*.ipr
+*.iws
+
+!.gitkeep

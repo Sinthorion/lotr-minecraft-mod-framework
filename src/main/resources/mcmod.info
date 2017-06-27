@@ -1,0 +1,17 @@
+[
+{
+  "modid": "$(modid)",
+  "name": "LOTR Framework Submod",
+  "description": "Allows to add other worlds to use the LOTR Mod features.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Pallando"],
+  "credits": "Mevans for making the LOTR mod",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": ["lotr"],
+  "dependencies": []
+}
+]
