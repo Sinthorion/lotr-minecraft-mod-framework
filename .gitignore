@@ -1,6 +1,5 @@
-# Gradle wrapper
+# Gradle metadata/tempfiles
 .gradle
-gradle
 
 # Build files
 build
