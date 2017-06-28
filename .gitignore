@@ -8,6 +8,9 @@ out
 # Dev Minecraft instance
 minecraft/*
 
+# Local dependencies; must be provided
+lib/*
+
 ; Intellij IDEA project files
 *.iml
 *.ipr
