@@ -9,7 +9,7 @@ The mod is developed for Minecraft 1.7.10, Forge 7.99.40.1614, and the LOTR Mod 
 
 Setup Instructions
 ------------------
-As a Forge mod, this project uses Gradle for dependency management and build automatisation. The Gradle Wrapper is included in the repository.
+As a Forge mod, this project uses Gradle for dependency management and build automatisation. The Gradle Wrapper is included in the repository. If you want to use your local Gradle installation instead, you need minimum version 2.12.
 
 The Lord of the Rings Mod is required for compilation. Get the latest version (currently 32.3) and place it in the `lib/` folder. A list of official downloads for all stable versions can be found [here](http://lotrminecraftmod.wikia.com/wiki/Updates).
 
