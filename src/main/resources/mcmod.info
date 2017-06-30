@@ -1,7 +1,7 @@
 [
 {
-  "modid": "lotrframework",
-  "name": "LOTR Framework Submod",
+  "modid": "mota",
+  "name": "Music of the Ainur",
   "description": "Allows to add other worlds to use the LOTR Mod features.",
   "version": "0.1",
   "mcversion": "1.7.10",
