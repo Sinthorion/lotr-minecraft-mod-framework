@@ -15,5 +15,6 @@ lib/*
 *.iml
 *.ipr
 *.iws
+.idea/
 
 !.gitkeep
